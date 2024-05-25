@@ -61,7 +61,6 @@ repos:
         require_serial: true
         types_or: [jupyter, markdown]
         additional_dependencies: [isort]
-
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.6.0
     hooks:
